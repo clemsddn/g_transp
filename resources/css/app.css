@@ -1,0 +1,22 @@
+.hero-section {
+    background-color: transparent;
+    padding:  0;
+  
+    height:60vh;
+
+}
+.hero-text {
+    margin-top: 50px;
+    
+}
+.feature-card {
+    margin-bottom: 30px;
+}
+
+.bg-image {
+    background-image: url('../js/Images/loginbg.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
